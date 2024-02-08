@@ -1,0 +1,6 @@
+* Getting Started
+This is my first blog post, I'm going to cover everything that I did for my first two weeks of work on project, what my project is, establish some goals, etc.
+
+** What is it?
+My project is building an open source music/mp3 player that is easy enough for others to assemble in a workshop, with the goal of firstly creating a cool music player and secondly showing off the benefits of open source software and building a community around projects like this. As I develop and work I'll have to consider things like cost and ease of building that way I can (hopefully) run a workshop where people can come and build one for themselves and connect with a product rather than mindlessly consuming.
+** Goals

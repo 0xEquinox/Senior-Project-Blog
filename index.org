@@ -1,0 +1,13 @@
+#+title: Senior Project Blog
+#+author: Will McDonald
+#+date: <2024-02-02 Fri>
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* Welcome
+This is the blog for my senior project, it will keep track of my progress as I go develop my ideas, encounter problems, and uncover solutions. I'm hoping to document everything I work on here so that it is readily available for the future.
+
+* Articles
+[[Getting Started][Getting Started]]
+
+* Getting Started
+This is the first article of my blog about my senior proejct I am adding words right now
